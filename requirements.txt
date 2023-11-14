@@ -1,0 +1,7 @@
+openai
+weasyprint
+pdfkit
+wkhtmltopdf
+pypdf
+--ignore-installed Pillows==9.0.0
+pdf2image
